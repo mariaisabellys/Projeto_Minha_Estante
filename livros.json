@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "titiulo": "O Hobbit",
+        "autor": "J.R.R. Tolkien",
+        "total_páginas": 310,
+        "status": "quero_ler",
+        "pagina_atual": 85,
+        "capa_url": "images/capa-hobbit.jpg"
+    },
+    {
+        "id": 2,
+        "titulo": "Duna",
+        "autor": "Frank Herbert",
+        "total_paginas": 688,
+        "status": "quero_ler",
+        "pagina_atual": 0,
+        "capa_url": "images/capa-duna.jpg"
+ },
+   {
+        "id": 3,
+        "titulo": "O Guia do Mochileiro das Galáxias",
+        "autor": "Douglas Adams",
+        "total_paginas": 208,
+        "status": "lido",
+        "pagina_atual": 208,
+        "capa_url": "images/capa-mochileiro.jpg"
+  },
+  {
+        "id": 4,
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "total_paginas": 328,
+        "status": "lendo",
+        "pagina_atual": 150,
+        "capa_url": "images/capa-1984.jpg"
+  },
+  {
+        "id": 5,
+        "titulo": "Cem anos de Solidão",
+        "autor": "Gabriel García Márquez",
+        "total_paginas": 417,
+        "status": "lendo",
+        "pagina_atual": 120,
+        "capa_url": "images/capa-cem-anos.jpg"
+  }
+]
