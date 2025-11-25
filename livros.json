@@ -1,13 +1,13 @@
 [
-    {
-        "id": 1,
-        "titiulo": "O Hobbit",
-        "autor": "J.R.R. Tolkien",
-        "total_páginas": 310,
-        "status": "quero_ler",
-        "pagina_atual": 85,
-        "capa_url": "images/capa-hobbit.jpg"
-    },
+      {
+            "id": 1,
+            "titulo": "O Hobbit",
+            "autor": "J.R.R. Tolkien",
+            "total_paginas": 310,
+            "status": "quero_ler",
+            "pagina_atual": 85,
+            "capa_url": "images/capa-hobbit.jpg"
+      },
     {
         "id": 2,
         "titulo": "Duna",
