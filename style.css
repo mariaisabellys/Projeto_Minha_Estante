@@ -7,14 +7,14 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #f4f4f9; /* Um cinza bem clarinho para o fundo */
+    background-color: #e8faff; /* Um cinza bem clarinho para o fundo */
     color: #333;
     line-height: 1.6;
 }
 
 /* 2. Cabeçalho */
 header {
-    background-color: #2c3e50; /* Azul escuro */
+    background-color: #0ba7c3; /* Azul claro */
     color: white;
     padding: 1.5rem;
     display: flex;
@@ -24,7 +24,7 @@ header {
 }
 
 header button {
-    background-color: #27ae60; /* Verde */
+    background-color: #6627ae; /* Roxo */
     color: white;
     border: none;
     padding: 10px 20px;
@@ -35,7 +35,7 @@ header button {
 }
 
 header button:hover {
-    background-color: #219150; /* Verde mais escuro ao passar o mouse */
+    background-color: #531b92; /* Roxo mais escuro ao passar o mouse */
 }
 
 /* 3. Layout Principal */
@@ -53,7 +53,7 @@ h2 {
     border-bottom: 2px solid #ddd;
     padding-bottom: 10px;
     margin-bottom: 20px;
-    color: #2c3e50;
+    color: #531b92;
 }
 
 /* 4. A GRID de Livros (Muito Importante!) */
@@ -66,7 +66,7 @@ h2 {
 
 /* 5. O Card do Livro */
 .livro-card {
-    background: white;
+    background: rgb(255, 255, 255);
     border-radius: 8px;
     overflow: hidden; /* Garante que a imagem não saia das bordas arredondadas */
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
