@@ -33,9 +33,7 @@ minha-estante/
 ## 🛠️ Tecnologias
 
 - **HTML5:** Estrutura semântica
-- **CSS3:** Estilização
-- variáveis
-- Flexbox e Grid Layout
+- **CSS3:** Estilização variáveis Flexbox e Grid Layout
 - **JavaScript (ES6+):** Lógica de manipulação do DOM `async/await` para fetch API e manipulação de eventos
 - **JSON:** Estrutura de dados para armazenamento dos livros
 
@@ -68,10 +66,10 @@ Clique com o botão direito no arquivo index.html e selecione "Open with Live Se
 O projeto abrirá automaticamente no seu navegador padrão.
 
 ## 🔮 Futuras Melhorias
-[ ] Implementar localStorage para persistir os novos livros após recarregar a página.
-[ ] Adicionar função para excluir livros.
-[ ] Permitir editar o progresso de leitura (atualizar página atual).
-[ ] Consumir uma API externa de livros (ex: Google Books API).
+- [ ] Implementar localStorage para persistir os novos livros após recarregar a página.
+- [ ] Adicionar função para excluir livros.
+- [ ] Permitir editar o progresso de leitura (atualizar página atual).
+- [ ] Consumir uma API externa de livros (ex: Google Books API).
 
 ## 👩‍💻 Autora
 Desenvolvido por [Maria Isabelly]
